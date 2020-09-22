@@ -37,3 +37,7 @@ p {
   font-size: 21px;
   margin: 21px 0px;
 }
+
+footer p {
+  float: right;
+}
