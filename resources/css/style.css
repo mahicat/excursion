@@ -1,6 +1,5 @@
 /* Root */
 body {
-  color: #FFFFFF;
   font-family: Verdana, sans-serif;
   font-size: 16px;
   background-color: #000000;
@@ -39,5 +38,5 @@ p {
 }
 
 footer p {
-  float: right;
+  text-align: right;
 }
