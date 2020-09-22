@@ -1,43 +1,30 @@
-/* Root */
 body {
-  font-family: Verdana, sans-serif;
-  font-size: 16px;
-  background-color: #000000;
-  margin: 8px;
+  background-color: black;
   text-align: center;
-  color: #FFFFFF;
-}
-
-/* heading 1 (header)*/
-header h1 {
-  font-size: 50px;
-  margin: 33.5px 0px;
-  font-family: Verdana;
-  font-weight: normal;
+  font-family: "Verdana", sans-serif;
   color: white;
-  text-align: center;
 }
 
-/* links */
-a {
-  color: #7FFFD4;
+.cta {
+  color: aquamarine;
   font-size: 16px;
 }
 
+h1 {
+  font-size: 50px;
+  font-weight: normal;
+}
 
-/* heading 2 (body content)*/
 h2 {
   font-size: 42px;
-  margin: 34.86px 0px;
+  font-weight: 300;
 }
 
-/* pragraph (p content) */
 p {
-  color: #808080;
   font-size: 21px;
-  margin: 21px 0px;
+  color: gray;
 }
 
-footer p {
+.footer {
   text-align: right;
-}
+} 
