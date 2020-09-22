@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 /* Root */
 body {
   color: #FFFFFF;
@@ -6,6 +10,7 @@ body {
   background-color: #000000;
   margin: 8px;
   text-align: center;
+  display: inline-block;
 }
 
 /* heading 1 (header)*/
