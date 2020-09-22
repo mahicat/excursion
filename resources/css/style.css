@@ -6,7 +6,6 @@ body {
   background-color: #000000;
   margin: 8px;
   text-align: center;
-  width: 100%;
 }
 
 /* heading 1 (header)*/
@@ -41,12 +40,4 @@ p {
 
 footer p {
   float: right;
-}
-
-video {
-  height: auto;
-}
-
-img {
-  height: auto;
 }
